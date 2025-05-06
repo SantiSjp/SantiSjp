@@ -1,4 +1,3 @@
-## Olá eu sou Gabriel Santi!
 <div>
   <a href="https://github.com/santisjp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santisjp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
